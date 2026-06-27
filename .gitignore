@@ -1,8 +1,14 @@
 build/
 install/
 log/
+.colcon*
+.ros/
 *.pyc
 __pycache__/
 .vscode/
+.idea/
 *.bag
 *.so
+CMakeCache.txt
+CMakeFiles/
+compile_commands.json
