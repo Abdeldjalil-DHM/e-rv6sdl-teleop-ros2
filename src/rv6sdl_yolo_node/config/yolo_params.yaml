@@ -1,0 +1,8 @@
+yolo_detection_node:
+  ros__parameters:
+    camera_id: 0
+    model_name: "yolo11n"
+    confidence_threshold: 0.45
+    fps_target: 30
+    frame_width: 640
+    frame_height: 480
