@@ -227,7 +227,7 @@ This project is not just a local robot demo. It is designed as a distributed rob
 ## Author
 
 **Abdeldjalil**  
-Final-Year Engineering Project (PFC)  
+Final-Bachelor Engineering Project 
 USTHB — Algiers, 2026
 
 ## License
